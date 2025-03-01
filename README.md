@@ -16,3 +16,13 @@ Item ID  Name                           High Alch  Buy Price  Margin
 4585     Dragon plateskirt              162000     160941     1059      
 26223    Ancient ceremonial legs        48000      46942      1058 
 ```
+
+Useful websites:
+https://prices.runescape.wiki/osrs/
+https://prices.runescape.wiki/osrs/alchemy
+https://oldschool.runescape.wiki/w/RuneScape:Real-time_Prices
+https://runescape.wiki/w/Application_programming_interface#Grand_Exchange_Database_API
+
+Example API call for price trends over 180 days:
+https://secure.runescape.com/m=itemdb_oldschool/api/catalogue/detail.json?item=22224
+https://secure.runescape.com/m=itemdb_oldschool/Extended+super+antifire+mix%281%29/viewitem?obj=22224
